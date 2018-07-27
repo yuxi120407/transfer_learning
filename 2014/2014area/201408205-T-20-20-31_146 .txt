@@ -1,0 +1,102 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2014 Pulley Ridge Cruise\Photos\ROV Photos- CPCe Images\201408205_ROV 14-10_UNCW_89\201408205-T-20-20-31_146 .jpg"
+26.6928,14008.2100,"cm"
+5
+9.1048,8421631,2
+459,1378
+455,1135
+6.3144,8421631,2
+1357,148
+1517,201
+6.2518,8421631,2
+2396,1566
+2278,1448
+1.2738,8421631,2
+3135,866
+3135,900
+6.7522,8421631,2
+3312,917
+3359,743
+5,5,"Pixels/cm: 26.6928"
+5,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Madracis"
+"Mdrc"
+""
+"(L) 9.1048"
+""
+""
+""
+""
+"2"
+"Stylasteridae"
+"STY"
+""
+"(L) 6.3144"
+""
+""
+""
+""
+"3"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 6.2518"
+""
+""
+""
+""
+"4"
+"Agaricia"
+"Aga"
+""
+"(L) 1.2738"
+""
+""
+""
+""
+"5"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 6.7522"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0
+0
+0
+0,0,0,0,0,"Mdrc"
+0,0,0,0,0,"STY"
+0,0,0,0,0,"Mdrcb"
+0,0,0,0,0,"Aga"
+0,0,0,0,0,"Mdrcb"
+""
+""
+""
+""
+""
+""
+""

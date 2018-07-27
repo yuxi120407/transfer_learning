@@ -1,0 +1,134 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\Data Analysis - All Cruises\CPCe Data\CPCe code for 2012 2013 Pulley Ridge- FINAL CODE.txt","J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2014 Pulley Ridge Cruise\Photos\ROV Photos- CPCe Images\201408205_ROV 14-10_UNCW_89\201408205-T-20-06-22_121 .jpg",54720,41040,17744,13308
+149.7929,40890.21
+54570.21,40890.21
+54570.21,149.7929
+149.7929,149.7929
+50
+4885,8187
+2514,4122
+5530,12365
+1969,9486
+1968,22172
+2155,18286
+1446,25408
+8626,32696
+5034,38545
+10696,37047
+19571,2124
+11879,5813
+16487,9184
+17118,16006
+14208,17891
+16336,19270
+14096,27623
+11263,24656
+19636,39332
+19538,40879
+24749,5487
+23008,6345
+32795,11347
+23809,12088
+29014,17391
+31903,23532
+26724,27040
+26826,25628
+29822,38943
+23142,33462
+40194,1332
+33431,5572
+37419,9811
+36896,10840
+35705,19386
+43414,18392
+40429,28770
+39556,32002
+37079,39646
+37558,36989
+47863,3505
+44893,3896
+50756,13079
+50650,10138
+52248,24438
+52328,19666
+50989,28891
+50329,31805
+51356,39738
+49823,34117
+"1","CCA","Notes","PHB"
+"2","Verp","Notes","PHB"
+"3","CCA","Notes","PHB"
+"4","RUB","Notes","PHB"
+"5","CCA","Notes","PHB"
+"6","CCA","Notes","PHB"
+"7","CCA","Notes","PHB"
+"8","Mdrcb","Notes","PHB"
+"9","CCA","Notes","PHB"
+"10","RUB","Notes","PHB"
+"11","CCA","Notes","PHB"
+"12","SB","Notes","PSB"
+"13","Prim","Notes","PHB"
+"14","RUB","Notes","PHB"
+"15","DEM","Notes","PHB"
+"16","CCA","Notes","PHB"
+"17","RUB","Notes","PHB"
+"18","CCA","Notes","PHB"
+"19","ROC","Notes","PHB"
+"20","SB","Notes","PSB"
+"21","CCA","Notes","PHB"
+"22","CCA","Notes","PHB"
+"23","CCA","Notes","PHB"
+"24","RUB","Notes","PHB"
+"25","RUB","Notes","PHB"
+"26","CCA","Notes","PHB"
+"27","Verp","Notes","PHB"
+"28","CCA","Notes","PHB"
+"29","CCA","Notes","PHB"
+"30","RUB","Notes","PHB"
+"31","CCA","Notes","PHB"
+"32","CCA","Notes","PHB"
+"33","CCA","Notes","PHB"
+"34","Prim","Notes","PHB"
+"35","CCA","Notes","PHB"
+"36","Verp","Notes","PHB"
+"37","DEM","Notes","PHB"
+"38","SB","Notes","PSB"
+"39","CCA","Notes","PHB"
+"40","SB","Notes","PSB"
+"41","STY","Notes","PHB"
+"42","CCA","Notes","PHB"
+"43","PEY","Notes","PHB"
+"44","Verp","Notes","PHB"
+"45","SPI","Notes","PHB"
+"46","GOR","Notes","PSB"
+"47","CCA","Notes","PHB"
+"48","CCA","Notes","PHB"
+"49","SB","Notes","PSB"
+"50","CCA","Notes","PHB"
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "
+" "

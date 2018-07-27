@@ -1,0 +1,102 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2014 Pulley Ridge Cruise\Photos\ROV Photos- CPCe Images\201408205_ROV 14-10_UNCW_89\201408205-T-20-20-03_144 .jpg"
+26.6928,14008.2100,"cm"
+5
+8.1966,8421631,2
+18,1071
+231,1021
+3.9594,8421631,2
+892,2263
+803,2206
+7.3669,8421631,2
+2417,169
+2580,279
+5.9577,8421631,2
+2468,2647
+2471,2488
+6.7205,8454016,2
+2800,2101
+2954,2193
+5,5,"Pixels/cm: 26.6928"
+5,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 8.1966"
+""
+""
+""
+""
+"2"
+"Stylasteridae"
+"STY"
+""
+"(L) 3.9594"
+""
+""
+""
+""
+"3"
+"Madracis"
+"Mdrc"
+""
+"(L) 7.3669"
+""
+""
+""
+""
+"4"
+"Stylasteridae"
+"STY"
+""
+"(L) 5.9577"
+""
+""
+""
+""
+"5"
+"Bare dead coral plate"
+"DCP"
+""
+"(L) 6.7205"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0
+0
+0
+0,0,0,0,0,"Mdrcb"
+0,0,0,0,0,"STY"
+0,0,0,0,0,"Mdrc"
+0,0,0,0,0,"STY"
+0,0,0,0,0,"DCP"
+""
+""
+""
+""
+""
+""
+""

@@ -1,0 +1,102 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2013 Pulley Ridge Cruise\Photos\ROV Photos- CPCe  and Density Images\201308203 - ROV 13-15 - Dive 2283\201308203-T-16-59-30_097 .jpg"
+30.0167,3491.3740,"cm"
+5
+4.5591,8421631,2
+1249,492
+1311,614
+4.7937,8421631,2
+990,673
+1063,797
+8.9359,8421631,2
+1622,67
+1774,288
+1.3491,8421631,2
+631,498
+665,520
+1.3857,8421631,2
+1690,1383
+1731,1390
+5,5,"Pixels/cm: 30.0167"
+5,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Helioseris cucullata"
+"Helc"
+""
+"(L) 4.5591"
+""
+""
+""
+""
+"2"
+"Helioseris cucullata"
+"Helc"
+""
+"(L) 4.7937"
+""
+""
+""
+""
+"3"
+"Helioseris cucullata"
+"Helc"
+""
+"(L) 8.9359"
+""
+""
+""
+""
+"4"
+"Agaricia"
+"Aga"
+""
+"(L) 1.3491"
+""
+""
+""
+""
+"5"
+"Agaricia"
+"Aga"
+""
+"(L) 1.3857"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+15466475
+15466475
+15466475
+15466475
+0
+1
+1,0,0,0,3,"Helc"
+0,1,0,0,0,"Helc"
+0,1,0,0,0,"Helc"
+0,1,0,0,0,"Aga"
+0,0,0,0,0,"Aga"
+""
+""
+""
+""
+""
+""
+""

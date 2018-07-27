@@ -1,0 +1,88 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2014 Pulley Ridge Cruise\Photos\ROV Photos- CPCe Images\201408205_ROV 14-10_UNCW_89\201408205-T-20-22-56_157 .jpg"
+26.6928,14008.2100,"cm"
+4
+3.2713,8421631,2
+513,1003
+446,947
+8.5582,8421631,2
+762,1442
+643,1247
+3.9220,8421631,2
+896,1224
+820,1152
+3.9256,8421631,2
+1797,656
+1839,752
+5,5,"Pixels/cm: 26.6928"
+4,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 3.2713"
+""
+""
+""
+""
+"2"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 8.5582"
+""
+""
+""
+""
+"3"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 3.9220"
+""
+""
+""
+""
+"4"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 3.9256"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0
+0
+0,0,0,0,0,"Mdrcb"
+0,0,0,0,0,"Mdrcb"
+0,0,0,0,0,"Mdrcb"
+0,0,0,0,0,"Mdrcb"
+""
+""
+""
+""
+""
+""
+""

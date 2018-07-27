@@ -1,0 +1,74 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2014 Pulley Ridge Cruise\Photos\ROV Photos- CPCe Images\201408205_ROV 14-10_UNCW_89\201408205-T-19-48-24_088 .jpg"
+26.6928,14008.2100,"cm"
+3
+4.3245,8421631,2
+1948,1332
+1839,1370
+2.4675,8421631,2
+2390,1826
+2447,1859
+4.3123,8421631,2
+3480,94
+3545,189
+5,5,"Pixels/cm: 26.6928"
+3,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Stylasteridae"
+"STY"
+""
+"(L) 4.3245"
+""
+""
+""
+""
+"2"
+"Stylasteridae"
+"STY"
+""
+"(L) 2.4675"
+""
+""
+""
+""
+"3"
+"Stylasteridae"
+"STY"
+""
+"(L) 4.3123"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0
+0,0,0,0,0,"STY"
+0,0,0,0,0,"STY"
+0,0,0,0,0,"STY"
+""
+""
+""
+""
+""
+""
+""

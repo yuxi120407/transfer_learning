@@ -1,0 +1,144 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2014 Pulley Ridge Cruise\Photos\ROV Photos- CPCe Images\201408205_ROV 14-10_UNCW_89\201408205-T-19-07-48_026 .jpg"
+26.6928,14008.2100,"cm"
+8
+5.0124,8421631,2
+949,32
+1048,122
+9.8085,8421631,2
+457,506
+649,328
+4.8846,8421631,2
+941,335
+895,457
+16.9030,8421631,2
+50,1604
+63,1153
+12.5802,8421631,2
+516,2027
+687,2316
+19.7147,8421631,2
+280,2411
+132,1906
+8.6223,8421631,2
+2157,273
+2180,502
+5.2043,8421631,2
+3196,705
+3173,568
+5,5,"Pixels/cm: 26.6928"
+8,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Stylasteridae"
+"STY"
+""
+"(L) 5.0124"
+""
+""
+""
+""
+"2"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 9.8085"
+""
+""
+""
+""
+"3"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 4.8846"
+""
+""
+""
+""
+"4"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 16.9030"
+""
+""
+""
+""
+"5"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 12.5802"
+""
+""
+""
+""
+"6"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 19.7147"
+""
+""
+""
+""
+"7"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 8.6223"
+""
+""
+""
+""
+"8"
+"Madracis brueggemanni"
+"Mdrcb"
+""
+"(L) 5.2043"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0,0,0,0,0,"STY"
+0,0,0,0,0,"Mdrcb"
+0,0,0,0,0,"Mdrcb"
+0,0,0,0,0,"Mdrcb"
+0,0,0,0,0,"Mdrcb"
+0,0,0,0,0,"Mdrcb"
+0,0,0,0,0,"Mdrcb"
+0,0,0,0,0,"Mdrcb"
+""
+""
+""
+""
+""
+""
+""

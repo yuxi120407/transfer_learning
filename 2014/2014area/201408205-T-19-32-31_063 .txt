@@ -1,0 +1,74 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2014 Pulley Ridge Cruise\Photos\ROV Photos- CPCe Images\201408205_ROV 14-10_UNCW_89\201408205-T-19-32-31_063 .jpg"
+26.6928,14008.2100,"cm"
+3
+1.3112,8421631,2
+1137,2262
+1137,2297
+8.9411,8421631,2
+2040,1193
+2224,1041
+2.1732,8421631,2
+2557,2445
+2591,2398
+5,5,"Pixels/cm: 26.6928"
+3,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Agaricia"
+"Aga"
+""
+"(L) 1.3112"
+""
+""
+""
+""
+"2"
+"Madracis"
+"Mdrc"
+""
+"(L) 8.9411"
+""
+""
+""
+""
+"3"
+"Stylasteridae"
+"STY"
+""
+"(L) 2.1732"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0
+0,0,0,0,0,"Aga"
+0,0,0,0,0,"Mdrc"
+0,0,0,0,0,"STY"
+""
+""
+""
+""
+""
+""
+""

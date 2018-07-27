@@ -1,0 +1,60 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2013 Pulley Ridge Cruise\Photos\ROV Photos- CPCe  and Density Images\201308203 - ROV 13-15 - Dive 2283\201308203-T-16-24-58_034 .jpg"
+26.6047,4444.3110,"cm"
+2
+2.6408,8421631,2
+2009,327
+1939,333
+3.6816,8421631,2
+2016,874
+1971,787
+5,5,"Pixels/cm: 26.6047"
+2,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Helioseris cucullata"
+"Helc"
+""
+"(L) 2.6408"
+""
+""
+"(L) 2.6408"
+""
+"2"
+"Madracis decactis"
+"Mdrsd"
+""
+"(L) 3.6816"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+15466475
+0
+1
+1,0,0,0,0,"Helc"
+0,0,0,0,0,"Mdrsd"
+""
+""
+""
+""
+""
+""
+""

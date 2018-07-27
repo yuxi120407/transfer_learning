@@ -1,0 +1,74 @@
+"J:\000 STEPHANIE\2012 NOAA Pulley Ridge Mesophotic Project\2013 Pulley Ridge Cruise\Photos\ROV Photos- CPCe  and Density Images\201308203 - ROV 13-15 - Dive 2283\201308203-T-16-17-32_009 .jpg"
+30.3026,3425.7860,"cm"
+3
+1.6072,8421631,2
+1241,1515
+1225,1469
+5.3176,8421631,2
+1195,383
+1273,524
+6.5641,8421631,2
+949,485
+1011,296
+5,5,"Pixels/cm: 30.3026"
+3,8
+"AREA #"
+"SPECIES"
+"SPECIES CODE"
+"MASTER AREA"
+"AREA"
+"INT. AREA"
+"EXT. AREA"
+"NET AREA"
+"COMMENTS"
+"1"
+"Agaricia"
+"Aga"
+""
+"(L) 1.6072"
+""
+""
+""
+""
+"2"
+"Madracis decactis"
+"Mdrsd"
+""
+"(L) 5.3176"
+""
+""
+""
+""
+"3"
+"Madracis decactis"
+"Mdrsd"
+""
+"(L) 6.5641"
+""
+""
+""
+""
+885
+2640
+1515
+1500
+1275
+1275
+1275
+1275
+13875
+0
+0
+0
+0
+0
+0,0,0,0,0,"Aga"
+0,0,0,0,0,"Mdrsd"
+0,0,0,0,0,"Mdrsd"
+""
+""
+""
+""
+""
+""
+""
